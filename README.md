@@ -9,7 +9,7 @@
 
 > The more I learned, the more interesting the web became and so I fell deeply in love with it ever since.
 
-[Portfolio](https://kevinshu1995.github.io/) / [Blog](https://a3216lucy.github.io/) / [E-mail](mailto:a3216lucy@gmail.com)
+[Portfolio](https://a3216lucy.github.io/portfolio/index.html) / [Blog](https://a3216lucy.github.io/) / [E-mail](mailto:a3216lucy@gmail.com)
 
 ---
 
