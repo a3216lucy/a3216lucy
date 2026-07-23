@@ -7,6 +7,6 @@
 
 > The more I learned, the more interesting the web became and so I fell deeply in love with it ever since.
 
-[Blog](https://a3216lucy.github.io/) / [E-mail](mailto:a3216lucy@gmail.com) ／ [Medium](https://medium.com/@a3216lucy)
+[E-mail](mailto:a3216lucy@gmail.com) ／ [Medium](https://medium.com/@a3216lucy) ／ [Blog](https://a3216lucy.github.io/) 
 
 
